@@ -1,0 +1,110 @@
+body{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h5{
+    color: pink;
+    text-align: center;
+}
+
+h1{
+    color: rgb(10, 133, 235);
+    text-align: center;
+}
+
+#image-container {
+    background: rgba(145, 136, 136, 0.973);
+}
+
+#image-profile {
+    width: 200px;
+    min-height: 100px;
+    border-radius: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h4{
+    color: rgb(0, 30, 95);
+    text-align: center;
+}
+
+h2{
+   color: gray; 
+   text-align: center;
+
+}
+
+.container {
+    background-color: rgb(238, 124, 213);
+    min-height: 500px;
+    margin: 100px;
+    /*margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.card {
+        width: 20%;
+        min-height: 300px;
+        margin-right: 10px;
+        margin-left: 10px;
+        border: 1px solid rgb(240, 93, 208);
+    }
+
+
+#image-film{
+    text-align: center;
+    width:100%;
+    border-radius: 100%;
+    
+}
+
+#image-sejarah{
+    text-align: center;
+    width: 100%;
+    border-radius: 100%;
+    
+}
+
+#image-nerdgasm{
+    text-align: center;
+    width: 100%;
+    border-radius: 100%;
+    
+}
+
+
+h3 {
+color: midnightblue;
+text-align: center;
+
+}
+
+p {
+    color: navy;
+    text-align: center;
+
+}
+
+
+
+hr {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+} /* garis panjang */
+
+footer{
+    text-align: center;
+
+}
+
+#image-logo{
+    width: 10%;
+}
